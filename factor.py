@@ -4,4 +4,4 @@ def isfactor(a,b):
 print(isfactor(3,6))
 #output should be True
 print(isfactor(7,9))
-#output should be false
+#output should be False
